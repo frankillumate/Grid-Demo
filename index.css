@@ -1,0 +1,206 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin: 200px;
+    padding: 0px;
+    background-color: rgb(227, 239, 239);
+
+
+}
+main{ 
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(4, 1fr);
+}
+img{
+    border-radius: 100px;
+    height: 40px;
+   
+}
+
+h1{
+    font-size: 1.3rem;
+}
+h4{
+    font-size: 0.7rem;
+}
+
+.sixteen{
+    grid-column: span 2;
+}
+
+.kirawhite{
+grid-column-start: 4;
+grid-row-end: span 2;
+}
+
+.purple{
+    grid-column:span 2;
+}
+
+.purple{
+    border-radius: 10px;
+    background-color: rgb(74, 36, 130);
+    padding: 25px;
+    color: whitesmoke ;   
+}
+
+#zero{
+    opacity: 0.3;
+}
+
+.letters{
+   line-height: 25px;
+}
+
+#id{
+    color: darkgrey;
+}
+
+.pdetail{
+    display: flex; 
+    gap: 10px;
+    font-size: 12px;
+    
+}
+
+.danh{
+    margin-top: 0px;
+    line-height: 2px;
+}
+
+.ash{
+    border-radius: 10px;
+    background-color:rgb(61, 79, 96);
+    padding: 25px;
+    color: whitesmoke;
+}
+
+.jonathan{
+    display: flex;
+    gap: 10px;
+}
+
+.jon{
+    margin-top: opx;
+}
+
+.jona{
+    margin-top: opx;
+    line-height: 2px;
+    font-size: 10px;
+}
+
+#one{
+    opacity: 0.3;
+}
+
+.two{
+    margin-top: 0px;
+}
+.three{
+line-height: 25px;
+}
+
+.four{
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.kirawhite{
+border-radius: 10px;
+padding: 25px;
+background-color: white;
+color: rgb(45, 43, 43);
+}
+
+.five{
+    display: flex;
+    gap: 10px;
+
+}
+
+.six{
+line-height: 1px;
+margin-top: 0px;
+font-size: 10px;
+}
+
+.seven{
+    opacity: 0.5;
+}
+
+.eight{
+    line-height: 25px;
+    opacity: 0.9;
+}
+
+.nine{
+    opacity: 0.5;
+    padding-top: 30px;
+
+}
+
+.harmon{
+    border-radius: 10px;
+    padding: 25px;
+    background-color: white;
+}
+
+.eleven{
+    display: flex;
+    gap: 10px;
+}
+
+.twelve{
+    line-height: 1px;
+    margin-top: 0px;
+    font-size: 10px;
+}
+
+.thirteen{
+
+    opacity: 0.5;
+}
+
+.fourteen{
+    line-height: 25px;
+    opacity: 0.9;
+}
+
+.fifteen{
+
+    opacity: 0.5;
+    padding-top: 30px;
+    width: 240px;
+}
+
+.sixteen{
+    border-radius: 10px;
+    padding: 25px;
+    background-color: rgb(13, 16, 62);
+    color: rgb(214, 200, 200);
+}
+
+.seventeen{
+    display: flex;
+    gap: 10px;
+}
+
+.nineteen{
+    line-height: 1px;
+    margin-top: 0px;
+    font-size: 10px;
+}
+.twenty{
+    opacity: 0.5;
+}
+
+.twentyone{
+    line-height: 25px;
+    opacity: 0.9;
+}
+ .twentytwo{
+    opacity: 0.5;
+    padding-top: 30px;
+ }
